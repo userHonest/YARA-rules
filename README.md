@@ -1,5 +1,6 @@
 Open Source YARA Rules Repository
 Introduction
+
 This repository contains a collection of YARA rules that I've discovered, utilized, and aggregated from various open-source programs around the web.
 
 YARA is an essential tool in cybersecurity, allowing us to create descriptions of malware families (or whatever else you'd like) based on textual or binary patterns. These YARA rules can help you identify, track, and analyze malware or other unwanted software.
