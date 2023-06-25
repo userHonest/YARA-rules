@@ -10,8 +10,7 @@ You'll need to have YARA installed on your system to use these rules. Refer to t
 
 Once you have YARA installed, you can use any rule in this repository like so:
 
-bash
-Copy code
+
 yara -r [RULE FILE] [DIRECTORY TO SCAN]
 Replace [RULE FILE] with the path to a YARA rule from this repository and [DIRECTORY TO SCAN] with the path to the directory you wish to scan.
 
